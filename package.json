@@ -1,0 +1,19 @@
+{
+  "name": "apollo-link-batch-by",
+  "version": "0.0.1",
+  "description": "Custom apollo link to provide customisability to query batching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campvanilla/apollo-link-batch-by.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/campvanilla/apollo-link-batch-by/issues"
+  },
+  "homepage": "https://github.com/campvanilla/apollo-link-batch-by#readme"
+}
